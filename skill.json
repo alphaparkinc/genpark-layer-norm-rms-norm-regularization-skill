@@ -1,0 +1,9 @@
+{
+  "name": "genpark-layer-norm-rms-norm-regularization-skill",
+  "version": "1.0.0",
+  "description": "LayerNorm and Root Mean Square Normalization (RMSNorm) with affine transformation parameters",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
