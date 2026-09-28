@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-layer-norm-rms-norm-regularization-skill
+service:
+  name: genpark-layer-norm-rms-norm-regularization-skill
+  command: python
+  args:
+    - mcp_server.py
